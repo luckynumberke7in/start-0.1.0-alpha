@@ -1,4 +1,4 @@
-**NOTE:** This fork was created to update the cargo-leptos template to work with 0.1.0-alpha, and was forked into the main branch, but quickly became obsolete as cargo-leptos and leptos are changing very rapidly. I will hold off on updating this for now.
+**NOTE:** This fork was created to update the cargo-leptos template to work with 0.1.0-alpha, and was merged into the main branch, but quickly became obsolete as cargo-leptos and leptos are changing very rapidly. I will hold off on updating this for now.
 
 # Leptos Starter Template
 
