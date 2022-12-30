@@ -1,6 +1,6 @@
-# Leptos Starter Template
+**NOTE:** This fork was created to update the cargo-leptos template to work with 0.1.0-alpha, and was forked into the main branch, but quickly became obsolete as cargo-leptos and leptos are changing very rapidly. I will hold off on updating this for now.
 
-**NOTE:** The starter template is currently being updated. It may be broken.
+# Leptos Starter Template
 
 This is a template for use with the [Leptos](https://github.com/gbj/leptos) web framework and the [cargo-leptos](https://github.com/akesson/cargo-leptos) tool.
 
